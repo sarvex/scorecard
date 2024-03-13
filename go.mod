@@ -33,7 +33,7 @@ require (
 	golang.org/x/net v0.0.0-20210510120150-4163338589ed // indirect
 	golang.org/x/tools v0.1.4
 	google.golang.org/genproto v0.0.0-20210624174822-c5cf32407d0a
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v2 v2.4.0
 	mvdan.cc/sh/v3 v3.3.0
 )
